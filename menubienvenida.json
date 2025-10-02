@@ -1,0 +1,110 @@
+{
+	"WBUI2":
+	{
+		"settings":
+		{
+			"openbutton": 0,
+			"hideicon": false,
+			"hideiconafter": 0,
+			"iconurl": "https://i.imgur.com/8zMqkD7.png",
+			"disableicontext": true,
+			"iconposition": 0,
+			"icontextcolor": 0,
+			"openonstart": false,
+			"openonstartonlynewplayers": false,
+			"updateinterval": 0
+		},
+		"tabs": [
+			{
+				"layout": 2,
+				"buttontext": "Inicio",
+				"imageurl": "https://i.imgur.com/PimAk3m.png",
+				"content": [
+					{
+						"title": "Bienvenido a ShadowArk",
+						"text": "▶ ShadowArk es un servidor PVE, con Eventos y con la opción de Tribewars (se pueden declarar guerras entre tribus y hacer pvp incluyendo raideos). No Wipe.\r\n\r\n▶ Este servidor dispone de página web con tienda de items, dinos, pack de inicio, etc. Además de servidor de discord con toda la información necesaria, es muy recomendable entrar a discord para estar al día de las noticias, eventos etc.\r\n\r\n▶ Accede a la tienda desde el botón \"Tienda web\" y echa un vistazo a las recompensas que puedes conseguir votando por el servidor, pasando horas dentro del servidor o donando para ayudar a mantener el servidor activo. \r\n\r\n▶ Accede al servidor de discord desde el botón \"Discord\" para encontrar la información necesaria para vincular tu cuenta a la web y poder usar la tienda.\r\n\r\n▶ Al votar por el servidor desde el botón \"Votar\" ganarás 20 Shadowcoins que podrás gastar en la tienda web, para conseguir las monedas debes claimear el voto en la página web o discord, puedes ver las instrucciones en nuestro discord."
+					}
+				]
+			},
+			{
+				"layout": 2,
+				"buttontext": "Info",
+				"imageurl": "https://preview.redd.it/ark-wiki-updated-background-image-for-the-island-theme-v0-rdcnbohxvkvb1.jpg?width=1080&crop=smart&auto=webp&s=c82ab5ff63e73c5985d835985a60f51265f60238",
+				"content": [
+					{
+						"title": "",
+						"text": "▶ Rates:\r\n- Experiencia x2, Cosecha/Farmeo x5, Tameo x5, Crianza x20, Dificultad x5 (Nivel max. dinos salvajes: 150).\r\n\r\n▶ Casino:\r\n-  Las monedas del bronce se consiguen canjeando Quitina en el casino (2000x de quitina por 1x moneda de bronce).\r\n- Las monedas de plata se consiguen en la caja de bronce y las monedas de oro en la caja de plata, los dinos de la caja de oro son solamente los mejores del juego.\r\n- Todos los dinos que pueden tocar en el casino son castrados y de nivel 230.\r\n\r\n▶ El mercado de The Island está en las coordenadas 82.9 - 24.7\r\n▶ El mercado de Scorched Earth está en las coordenadas 55.4 - 61.9\r\n▶ El mercado de The Center está en las coordenadas 33.5 - 15\r\n▶ El mercado de Aberration está en las coordenadas 43.5 - 32\r\n▶ El mercado de Extinction está en las coordenadas  49.5 - 61\r\n▶ El mercado de Astraeos está en las coordenadas  31 - 6\r\n▶ El mercado de Ragnarok está en las coordenadas  87 - 38\r\n\r\n▶ Tienda del servidor:\r\n- Los dinos que se venden en la tienda web son de nivel 250, se pueden criar y tienen 100% imprint del jugador que lo compra.\r\n\r\n▶ Por favor, revisad la guía de discord Vincular Personaje para vincular tu cuenta de Ark a la web, y podrás reclamar el kit de inicio y usar la tienda web.\r\n\r\n▶ Podéis conseguir ShadowCoins (monedas para la tienda web) por cada hora conectado al servidor (3 tokens), votando por el servidor desde el enlace que aparece dentro del juego al pulsar (F1 / Cuadrado / Y) y luego reclamándolo (20 tokens), o comprando algún pack desde la tienda web, mediante donaciones para ayudar a mantener el servidor.\r\n\r\n▶ Mod Custom ShadowArk\r\n- Nuestro mod añade nuestras formas de conseguir los objetos de endgame como blueprints (planos) casi capeados de: armas, armaduras, monturas. Nuevas estructuras, pociones, skins de personaje/dinosaurios, y dinosaurios para crianza.\r\n\r\nEstos tickets se consiguen de diferente forma cada uno:\r\n- Ticket Azul: mediante misiones diarias.\r\n- Ticket Morado: matando shinys y en eventos.\r\n"
+					},
+					{
+						"title": "",
+						"text": "▶ Comandos InGame:\r\n/tienda = muestra el enlace de la tienda web\r\n/web\r\n/kit\r\n/shadowcoins = muestra la cantidad de ShadowCoins que tienes ahorrado.\r\n/tokens\r\n/players = muestra la cantidad de jugadores que hay conectados en el mapa.\r\n/discord = muestra el enlace de discord\r\n/dc\r\n/mercado = muestra las coordenadas del mercado/casino según el mapa en el que estéis\r\n\r\n▶ Decay de estructuras (tiempo de deterioro de estructuras)\r\n> - Tier de Paja: 6 días\r\n> - Tier de Madera: 12 días\r\n> - Tier de Adobe: 12 días\r\n> - Tier de Piedra: 18 días\r\n> - Tier de Invernadero: 22 días y 12 horas\r\n> - Tier de Metal: 24 días\r\n> - Tier de Tek: 30 días"
+					}
+				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "Banner",
+				"imageurl": "https://i.imgur.com/XsfCopf.jpeg",
+				"content": [
+					{
+						"title": "",
+						"text": ""
+					}
+				]
+			},
+			{
+				"layout": 3,
+				"buttontext": "Normas",
+				"imageurl": "https://t4.ftcdn.net/jpg/10/54/71/19/360_F_1054711970_1Ipn3gk8pXscKR9L0y6ZbvnnNKUH4but.jpg",
+				"content": [
+					{
+						"title": "NORMAS DE COMPORTAMIENTO",
+						"text": "- Los Admins estamos para ayudar, ser respetuosos a la hora de pedir favores y nunca pedir que te regalen nada.\r\n\r\n- Usa un lenguaje correcto y se respetuoso con los demas.\r\n\r\n- No se permitira el nombre de Humano, ni ningun nombre con caracteres especiales.\r\n\r\n- Esta prohibido insultar, abusar o despreciar a nadie (Si alguien te falta el respeto, o no te trata con educacion: no seguir esa dinamica y avisar a un Admin en lugar de discutir, o ambos podreis tener sanciones).\r\n\r\n- Esta prohibido usar bugs/exploits del juego, -SI SON DETECTADOS SE PROCEDERA A BANEO PERMANENTE DE LA TRIBU.\r\n       - En caso de que detecteis algún bug/exploit del juego, estos han de ser reportados a la administracion lo antes posible mediante el canal de discord: Crear Ticket\r\n\r\n- No esta permitido el uso de hacks y glitchs.\r\n\r\n- El comportamiento PvP (atraer/lanzar dinos salvajes a bases de jugadores, agarrar/encerrar a otro jugador sin consentimiento, robar y/o matar a otro jugador, robar crianzas) sera motivo de baneo permanente.\r\n\r\n- No nos gusta que se critique a la espalda y tampoco las peleas por chat, el incumplimiento de esta norma puede repercutir negativamente en los afectados. \r\n\r\n- La administracion no se hara responsable de la perdida de dinos o items por causa de bugs del juego, ni por fallo del propio jugador.\r\n\r\n- Los Drops/Loot crates le pertenecen al que llegue primero, y hay que vaciarlos por completo, lo mismo que las presas de castores.\r\n\r\n- Las Venas de elemento y Drops de oleadas (Extinction) le pertenece al que llegue primero y lo reclame. No se permite que otro jugador interfiera en uno de ellos sin el permiso del que lo reclama.\r\n\r\n- No esta permitido cerrar con construcciones las estructuras de recoleccion: (Veta de aceite, Grifo de savia, Extractor de gas, Planta Z, Nodo de Carga, etc), ni Drops/Loot crates."
+					},
+					{
+						"title": "NORMAS DE CONSTRUCCION",
+						"text": "- ESTA PROHIBIDO CONSTRUIR EN CUEVAS DE ARTEFACTOS, CERCA DEL MERCADO/CASINO, DROPS, NOTAS DE EXPLORADOR o RECURSOS (los sacos de dormir o camas colocados en estas, deben ser retirados una vez que se abandone la cueva).\r\n\r\n- Es obligatorio construir las murallas/perimetro de base con Puertas Behemoth (marcos y puertas colosales).\r\n\r\n- Es obligatorio desbloquear los Transmitter y Teletransportadores que esten fuera del perimetro de vuestra base.\r\n\r\n- Todas las estructuras temporales ubicadas fuera de la base tienen que ser removidas inmediatamente despues de cumplir con su proposito con la excepcion de trampas de tameo, transmitter y teletransportadores desbloqueados (es decir, barricadas, estructuras de domesticacion sin desbloquear, hoguera, sacos de dormir, etc, NO cuentan como estructuras temporales los extractores de gas, aceite, y grifos de savia, los cuales estan limitados a 1 bloqueado por tribu, el resto deberan estar desbloqueados. \r\n\r\n- No se permite colocar cimientos o pilares para que no aparezcan dinos o vegetacion, dentro la base si se pueden poner para evitar respawns.\r\n\r\n- Se permitiran un maximo de 2 bases por mapa y tribu.\r\n\r\n- No se permite la construccion de trenes, debido a que bloquea la construccion de bases en un area circundante.\r\n\r\n- No se permite la construccion de mega estructuras para subir a las montañas.\r\n\r\n- Prohibido construir en zonas ricas en recursos, siempre y cuando no exista mas zonas ricas de ese recurso en ese mapa.\r\n\r\n- Prohibido cerrar caminos/rios, y cuevas en las que hayan recursos valiosos (en ambos casos se debera desbloquear una puerta colosal de entrada/salida a poder ser).\r\n\r\n- La delimitacion de terreno para una base debera ser acorde para el uso de la misma.\r\n\r\n- Construir las bases con sentido comun en cuanto a tamaño, distancia con otras bases y cantidad de estructuras e intenten no bloquear el paso al resto de jugadores."
+					},
+					{
+						"title": "NORMAS SOBRE DINOSAURIOS",
+						"text": "- No dejar dinos abandonados ni estructuras, si no se recogen se procedera a su eliminacion.\r\n\r\n- No esta permitido apropiarse de la genetica de otro jugador, ya sea robandole los huevos de los dinos, aprovechando las alianzas y o aprovechando la deambulacion de estos. \r\n\r\n- No esta permitido reclamar un Dino ajeno sin permiso del propietario, en caso de encontrarlo, avisad a un Admin. \r\n\r\n- No esta permitido dejar dinosaurios farmeando solos, dejando el SoloFarm activado.\r\n\r\n- Cualquier Dino dejado en los Obeliscos y Mercados/Casinos sera considerado abandonado, y se procedera a su eliminacion sin previo aviso -TRAS UN PLAZO MAXIMO DE 3 DIAS.\r\n\r\n- No dejar dinos en agresivo por el mapa que puedan afectar al tameo de otros jugadores.\r\n\r\n- Por favor, no tener fuera de cryopods un exceso de dinos que puedan causar lag (tener fuera solamente los que esten apareando y con un poco de vista) y nunca tener 2 oasisaurios fuera de dinoball (maximo 1)."
+					}
+				]
+			},
+			{
+				"layout": 3,
+				"buttontext": "Rules",
+				"imageurl": "https://t4.ftcdn.net/jpg/10/54/71/19/360_F_1054711970_1Ipn3gk8pXscKR9L0y6ZbvnnNKUH4but.jpg",
+				"content": [
+					{
+						"title": "RULES OF LIVING AND CONDUCT",
+						"text": "- Admins are here to help. Please be respectful when asking for favors and never ask for anything for free.\r\n\r\n- Use correct language and be respectful of others.\r\n\r\n- The name Human or any name with special characters will not be allowed.\r\n\r\n- It is forbidden to insult, abuse, or belittle anyone (If someone disrespects you or is rude to you: do not follow this pattern and notify an Admin instead of arguing, or both of you may be subject to sanctions).\r\n\r\n- It is forbidden to use bugs or exploits in the game. If detected, you will be permanently banned from the tribe.\r\n\r\n- If you detect any bugs or exploits in the game, they must be reported to the administration as soon as possible via the Discord channel: Create Ticket\r\n\r\n- The use of hacks and glitches is prohibited.\r\n\r\n- PvP behavior (luring/throwing wild dinos into player bases, grabbing/enclosing another player without consent, stealing and/or killing another player, stealing offspring) will result in a permanent ban.\r\n\r\n- We do not like backbiting or chat fights. Failure to comply with this rule may have negative repercussions for those affected.\r\n\r\n- The administration will not be responsible for the loss of dinos or items due to game bugs or player error.\r\n\r\n- Drops/Loot Crates belong to whoever arrives first and must be emptied completely, as must beaver dams.\r\n\r\n- Element Veins and Wave Drops (Extinction) belong to whoever arrives first and claims them. Another player is not allowed to interfere with one of them without the claimant's permission.\r\n\r\n- Blocking collection structures (Oil Vein, Sap Tap, Gas Extractor, Plant Species Z, Charge Nodes, etc.) or Drops/Loot Crates with buildings is not allowed."
+					},
+					{
+						"title": "BUILDING RULES",
+						"text": "- BUILDING IS PROHIBITED IN ARTIFACT CAVES, NEAR THE MARKET/CASINO, DROPS, EXPLORER'S NOTES, or RESOURCES (sleeping bags or beds placed in these must be removed once the cave is abandoned).\r\n\r\n- It is mandatory to build base walls/perimeters with Behemoth Gates (colossal frames and doors).\r\n\r\n- It is mandatory to unlock Transmitters and Teleporters that are outside the perimeter of your base.\r\n\r\n- All temporary structures located outside the base must be removed immediately after fulfilling their purpose, with the exception of taming traps, transmitters, and unlocked teleporters (i.e., barricades, unlocked taming structures, campfires, sleeping bags, etc.). Gas, oil, and sap taps do not count as temporary structures, which are limited to 1 locked per tribe; the rest must be unlocked.\r\n\r\n- Placing foundations or pillars to prevent dinosaurs or vegetation from spawning is not allowed. They can be placed inside the base to prevent respawns.\r\n\r\n- A maximum of 2 bases will be allowed per map and tribe.\r\n\r\n- Building trains is not allowed, as it blocks base construction in the surrounding area.\r\n\r\n- Building megastructures to climb mountains is not allowed.\r\n\r\n- Building in resource-rich areas is prohibited, as long as there are no other areas. rich in that resource on that map.\r\n\r\n- Closing roads/rivers and caves containing valuable resources is prohibited (in both cases, a colossal entrance/exit door must be unlocked, if possible).\r\n\r\n- The land demarcation for a base must be appropriate for its use.\r\n\r\n- Build bases with common sense regarding size, distance from other bases, and number of structures, and try not to block the path of other players."
+					},
+					{
+						"title": "DINOSAUR RULES",
+						"text": "- Do not leave abandoned dinosaurs or structures. Failure to collect them will result in their elimination.\r\n\r\n- It is not permitted to appropriate another player's genetics, whether by stealing dinosaur eggs, exploiting alliances, or taking advantage of their wandering.\r\n\r\n- It is not permitted to claim another player's dinosaur without the owner's permission. If you find one, notify an Admin.\r\n\r\n- It is not permitted to leave dinosaurs farming alone, leaving SoloFarm enabled.\r\n\r\n- Any dinosaurs left in Obelisks and Markets/Casinos will be considered abandoned and will be eliminated without prior notice —AFTER A MAXIMUM PERIOD OF 3 DAYS.\r\n\r\n- Do not leave aggressive dinosaurs on the map that could affect the size of other players.\r\n\r\n- Please, don't have too many dinos outside of cryopods that could cause lag (only have those that are mating and have some vision outside) and never have 2 oasisaurs outside of dinoball (maximum 1)."
+					}
+				]
+			}
+		],
+		"links": [
+			{
+				"text": "Tienda Web",
+				"url": "https://shadowarkesp.gameserverapp.net/shop"
+			},
+			{
+				"text": "Votar",
+				"url": "https://shadowarkesp.gameserverapp.net/page/110918-Votar"
+			},
+			{
+				"text": "Discord",
+				"url": "https://discord.gg/c3VEYxrN6j"
+			}
+		],
+		"version": 2
+	}
+}
