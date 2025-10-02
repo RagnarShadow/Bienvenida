@@ -18,7 +18,7 @@
 			{
 				"layout": 2,
 				"buttontext": "Inicio",
-				"imageurl": "https://i.imgur.com/PimAk3m.png",
+				"imageurl": "https://store-images.s-microsoft.com/image/apps.34402.14545480955348978.6df932ed-6670-40c9-9a84-fc164557d4ec.635b23a8-4ec7-44bd-b0ba-bc07c9b9ebb6?q=90&w=480&h=270",
 				"content": [
 					{
 						"title": "Bienvenido a ShadowArk",
@@ -107,4 +107,5 @@
 		],
 		"version": 2
 	}
+
 }
