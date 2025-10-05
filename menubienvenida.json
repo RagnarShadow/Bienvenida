@@ -44,7 +44,7 @@
 			{
 				"layout": 3,
 				"buttontext": "Normas ESP",
-				"imageurl": "https://t4.ftcdn.net/jpg/10/54/71/19/360_F_1054711970_1Ipn3gk8pXscKR9L0y6ZbvnnNKUH4but.jpg",
+				"imageurl": "https://i.imgur.com/Ow4rhKW.jpeg",
 				"content": [
 					{
 						"title": "NORMAS DE COMPORTAMIENTO",
@@ -78,7 +78,7 @@
 			{
 				"layout": 3,
 				"buttontext": "Rules ENG",
-				"imageurl": "https://t4.ftcdn.net/jpg/10/54/71/19/360_F_1054711970_1Ipn3gk8pXscKR9L0y6ZbvnnNKUH4but.jpg",
+				"imageurl": "https://i.imgur.com/Ow4rhKW.jpeg",
 				"content": [
 					{
 						"title": "RULES OF LIVING AND CONDUCT",
@@ -123,5 +123,3 @@
 		"version": 2
 	}
 }
-
-
