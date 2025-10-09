@@ -96,8 +96,19 @@
 			},
 			{
 				"layout": 1,
-				"buttontext": "Banner",
-				"imageurl": "https://i.imgur.com/XsfCopf.jpeg",
+				"buttontext": "Banner ESP",
+				"imageurl": "https://i.imgur.com/S2B44Ys.png",
+				"content": [
+					{
+						"title": "",
+						"text": ""
+					}
+				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "Banner ENG",
+				"imageurl": "https://i.imgur.com/rjWStVc.png",
 				"content": [
 					{
 						"title": "",
@@ -123,6 +134,7 @@
 		"version": 2
 	}
 }
+
 
 
 
