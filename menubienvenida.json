@@ -56,7 +56,7 @@
 					},
 					{
 						"title": "NORMAS SOBRE DINOSAURIOS",
-						"text": "- No dejar dinos abandonados ni estructuras, si no se recogen se procedera a su eliminacion.\r\n\r\n- No esta permitido apropiarse de la genetica de otro jugador, ya sea robandole los huevos de los dinos, aprovechando las alianzas y o aprovechando la deambulacion de estos.\r\n\r\n- No esta permitido reclamar un Dino ajeno sin permiso del propietario, en caso de encontrarlo, avisad a un Admin.\r\n\r\n- No esta permitido dejar dinosaurios farmeando solos, dejando el SoloFarm activado.\r\n\r\n- Cualquier Dino dejado en los Obeliscos y Mercados/Casinos sera considerado abandonado, y se procedera a su eliminacion sin previo aviso -TRAS UN PLAZO MAXIMO DE 3 DIAS.\r\n\r\n- No dejar dinos en agresivo por el mapa que puedan afectar al tameo de otros jugadores.\r\n\r\n- Por favor no tener fuera de cryopods un exceso de dinos que puedan causar lag (tener fuera solamente los que esten apareando y con un poco de vista) y nunca tener 2 oasisaurios fuera de dinoball (maximo 1)."
+						"text": "- No dejar dinos abandonados ni estructuras, si no se recogen se procedera a su eliminacion.\r\n\r\n- No esta permitido apropiarse de la genetica de otro jugador, ya sea robandole los huevos de los dinos, aprovechando las alianzas y o aprovechando la deambulacion de estos.\r\n\r\n- No esta permitido dejar dinosaurios farmeando solos, dejando el SoloFarm activado.\r\n\r\n- Cualquier Dino dejado en los Obeliscos y Mercados/Casinos sera considerado abandonado, y se procedera a su eliminacion sin previo aviso -TRAS UN PLAZO MAXIMO DE 3 DIAS.\r\n\r\n- No dejar dinos en agresivo por el mapa que puedan afectar al tameo de otros jugadores.\r\n\r\n- Por favor no tener fuera de cryopods un exceso de dinos que puedan causar lag (tener fuera solamente los que esten apareando y con un poco de vista) y nunca tener 2 oasisaurios fuera de dinoball (maximo 1)."
 					}
 				]
 			},
@@ -90,7 +90,7 @@
 					},
 					{
 						"title": "DINOSAUR RULES",
-						"text": "- Do not leave abandoned dinosaurs or structures. Failure to collect them will result in their elimination.\r\n\r\n- It is not permitted to appropriate another player's genetics, whether by stealing dinosaur eggs, exploiting alliances, or taking advantage of their wandering.\r\n\r\n- It is not permitted to claim another player's dinosaur without the owner's permission. If you find one, notify an Admin.\r\n\r\n- It is not permitted to leave dinosaurs farming alone, leaving SoloFarm enabled.\r\n\r\n- Any dinosaurs left in Obelisks and Markets/Casinos will be considered abandoned and will be eliminated without prior notice—AFTER A MAXIMUM PERIOD OF 3 DAYS.\r\n\r\n- Do not leave aggressive dinosaurs on the map that could affect the size of other players.\r\n\r\n- Please don't have too many dinos outside of cryopods that could cause lag (only have those that are mating and have some vision outside) and never have 2 oasisaurs outside of dinoball (maximum 1).\r\n"
+						"text": "- Do not leave abandoned dinosaurs or structures. Failure to collect them will result in their elimination.\r\n\r\n- It is not permitted to appropriate another player's genetics, whether by stealing dinosaur eggs, exploiting alliances, or taking advantage of their wandering.\r\n\r\n- It is not permitted to leave dinosaurs farming alone, leaving SoloFarm enabled.\r\n\r\n- Any dinosaurs left in Obelisks and Markets/Casinos will be considered abandoned and will be eliminated without prior notice—AFTER A MAXIMUM PERIOD OF 3 DAYS.\r\n\r\n- Do not leave aggressive dinosaurs on the map that could affect the size of other players.\r\n\r\n- Please don't have too many dinos outside of cryopods that could cause lag (only have those that are mating and have some vision outside) and never have 2 oasisaurs outside of dinoball (maximum 1).\r\n"
 					}
 				]
 			},
@@ -134,6 +134,7 @@
 		"version": 2
 	}
 }
+
 
 
 
