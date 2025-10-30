@@ -18,7 +18,7 @@
 			{
 				"layout": 2,
 				"buttontext": "Inicio",
-				"imageurl": "https://i.imgur.com/kop1SEP.jpeg",
+				"imageurl": "https://i.ibb.co/77NrPCy/kop1SEP.jpg",
 				"content": [
 					{
 						"title": "Bienvenido a ShadowArk",
@@ -29,7 +29,7 @@
 			{
 				"layout": 2,
 				"buttontext": "Info ESP",
-				"imageurl": "https://i.imgur.com/TTPwwRi.png",
+				"imageurl": "https://i.ibb.co/3mfFTFVv/TTPwwRi.png",
 				"content": [
 					{
 						"title": "",
@@ -44,7 +44,7 @@
 			{
 				"layout": 3,
 				"buttontext": "Normas ESP",
-				"imageurl": "https://i.imgur.com/Ow4rhKW.jpeg",
+				"imageurl": "https://i.ibb.co/MDzXTXdQ/Ow4rhKW.jpg",
 				"content": [
 					{
 						"title": "NORMAS DE COMPORTAMIENTO",
@@ -63,7 +63,7 @@
 			{
 				"layout": 2,
 				"buttontext": "Info ENG",
-				"imageurl": "https://i.imgur.com/TTPwwRi.png",
+				"imageurl": "https://i.ibb.co/3mfFTFVv/TTPwwRi.png",
 				"content": [
 					{
 						"title": "",
@@ -78,7 +78,7 @@
 			{
 				"layout": 3,
 				"buttontext": "Rules ENG",
-				"imageurl": "https://i.imgur.com/Ow4rhKW.jpeg",
+				"imageurl": "https://i.ibb.co/MDzXTXdQ/Ow4rhKW.jpg",
 				"content": [
 					{
 						"title": "RULES OF LIVING AND CONDUCT",
@@ -134,6 +134,7 @@
 		"version": 2
 	}
 }
+
 
 
 
