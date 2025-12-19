@@ -18,13 +18,7 @@
 			{
 				"layout": 2,
 				"buttontext": "Inicio",
-				"imageurl": "https://i.ibb.co/77NrPCy/kop1SEP.jpg",
-				"content": [
-					{
-						"title": "Bienvenido a ShadowArk",
-						"text": "▶ ShadowArk es un servidor PVE, con Eventos y con la opcion de Tribewars (se pueden declarar guerras entre tribus y hacer pvp incluyendo raideos). No Wipe.\r\n\r\n▶ El servidor dispone de pagina web con tienda de items, dinos, pack de inicio, etc. Ademas de servidor de Discord con toda la informacion necesaria, es muy recomendable entrar al Discord para estar al día de las noticias, eventos, etc.\r\n\r\n▶ Accede a la tienda desde el boton \"Tienda web\" y echa un vistazo a las recompensas que puedes conseguir votando por el servidor, pasando horas dentro del servidor o donando para ayudar a mantener el servidor activo. \r\n\r\n▶ Accede al servidor de Discord desde el botón \"Discord\" para encontrar la información necesaria para vincular tu cuenta a la web y poder usar la tienda.\r\n\r\n▶ Al votar por el servidor desde el boton \"Votar\" ganaras 20 Shadowcoins que podras gastar en la tienda web, para conseguir las monedas debes claimear el voto en la página web o discord, puedes ver las instrucciones en nuestro discord."
-					}
-				]
+				"imageurl": "https://i.ibb.co/wh8Z9pFJ/INFO-SHADOWARK.png"
 			},
 			{
 				"layout": 2,
@@ -134,6 +128,7 @@
 		"version": 2
 	}
 }
+
 
 
 
