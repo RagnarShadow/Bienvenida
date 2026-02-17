@@ -114,11 +114,11 @@
 		"links": [
 			{
 				"text": "Tienda Web",
-				"url": "https://shadowarkesp.gameserverapp.net/shop"
+				"url": "https://www.shadowark.net/shop"
 			},
 			{
 				"text": "Votar",
-				"url": "https://shadowarkesp.gameserverapp.net/page/110918-Votar"
+				"url": "https://www.shadowark.net/page/110918-Votar"
 			},
 			{
 				"text": "Discord",
@@ -128,6 +128,7 @@
 		"version": 2
 	}
 }
+
 
 
 
